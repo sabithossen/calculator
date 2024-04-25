@@ -1,4 +1,6 @@
-Sabit - 230240071
+#Sabit - 230240071
+
+
 
 public class Mycalculator extends javax.swing.JFrame {
 
